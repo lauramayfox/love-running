@@ -21,17 +21,23 @@ body {
 
 /*Header*/
 header {
-    background-color: lightcoral;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 
-h1{
+h1 {
     font-family: 'Oswald', sans-serif;
 }
+
 /*Main Content*/
 main {
     background-color: lightblue;
-    
-    flex: 10 auto;
+
+    flex: 1 0 auto;
 }
 
 /*Footer*/
