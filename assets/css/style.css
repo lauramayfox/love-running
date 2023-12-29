@@ -209,6 +209,12 @@ main {
     line-height: 0;
 }
 
+/* Sign up page */
+
+#signup {
+    background-image: url("../images/signup-image.webp");
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
